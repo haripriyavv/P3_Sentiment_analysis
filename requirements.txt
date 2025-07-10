@@ -7,3 +7,4 @@ scikit-learn
 wordcloud
 xgboost
 joblib
+openpyxl
